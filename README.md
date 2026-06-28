@@ -8,7 +8,7 @@ Built with a responsive user interface and secure backend architecture, MediCare
 
 ## 🌍 Live Demo
 
-Live Link: 
+Live Link: https://madicare-client.vercel.app/
 
 ## 🚀 Project Overview
 
